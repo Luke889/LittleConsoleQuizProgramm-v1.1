@@ -68,7 +68,7 @@ public class multi {
 
     }
     public static void spiel(){
-        System.out.println( eing + " fängt an!");
+        System.out.println("Spieler 1 fängt an!");
         System.out.println("Frage 1: Wer war Stephan Hawking?");
         System.out.println("A: Ein Professor");
         System.out.println("B: Wissenschaftler");
@@ -87,7 +87,7 @@ public class multi {
         }
         //-------
 
-        System.out.println(eing2 + " Ist am Zug!");
+        System.out.println("Spieler 2 Ist am Zug!");
         System.out.println("Frage 1: Wer erfand das Spagetti Eis??");
         System.out.println("A: Ein Deutscher");
         System.out.println("B: Ein Italiener");
