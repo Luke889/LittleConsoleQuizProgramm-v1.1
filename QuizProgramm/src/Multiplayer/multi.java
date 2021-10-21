@@ -24,13 +24,13 @@ public class multi {
             Scanner sc = new Scanner(System.in);
             String eing = sc.next();
             System.out.printf("|Spieler 2: ");
-            Scanner sc3 = new Scanner(System.in);
-            String eing3 = sc3.next();
+            Scanner sc2 = new Scanner(System.in);
+            String eing2 = sc2.next();
             System.out.println("|----------------|");
 
         ArrayList<String> name = new ArrayList<>();
         name.add(eing);
-        name.add(eing3);
+        name.add(eing2);
 
         System.out.println("--------------------------------------------------------------------------------------");
 
@@ -68,7 +68,7 @@ public class multi {
 
     }
     public static void spiel(){
-        System.out.println("Spieler 1 fängt an!");
+        System.out.println( eing + " fängt an!");
         System.out.println("Frage 1: Wer war Stephan Hawking?");
         System.out.println("A: Ein Professor");
         System.out.println("B: Wissenschaftler");
@@ -87,7 +87,7 @@ public class multi {
         }
         //-------
 
-        System.out.println("Spieler 2 Ist am Zug!");
+        System.out.println(eing2 + " Ist am Zug!");
         System.out.println("Frage 1: Wer erfand das Spagetti Eis??");
         System.out.println("A: Ein Deutscher");
         System.out.println("B: Ein Italiener");
