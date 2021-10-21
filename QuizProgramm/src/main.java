@@ -7,7 +7,7 @@ import Schwierigkeit.Schwer;
 import java.util.Scanner;
 /*
 Author: Luke | Luhe_Xx07_
-Version: v1.0
+Version: v1.1
 Date: 14.10.2021
 Discord: Luke | Luhe_Xx07_#7048
  */
